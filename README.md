@@ -15,6 +15,6 @@ Este repositorio presenta una colección de proyectos reales, orientados al sect
 | 4 | `Pisos_y_Caminos_Subestacion` | Calcula área total de distintos pisos y caminos |
 | 5 | `Prediccion_Cemento_ml` | Modelo de regresión para predecir el uso de cemento por mezcla |
 | 6 | `Mezclas_Anomalas_Isolationforest` | Detección global de mezclas de concreto anómalas con Isolation Forest |
-| 7 | `AAnomalias_Por_Mezcla` | Detección de anomalías por tipo de mezcla individual |
+| 7 | `Anomalias_Por_Mezcla` | Detección de anomalías por tipo de mezcla individual |
 
 ---
