@@ -4,6 +4,6 @@ Este proyecto clasifica y resume las estructuras montadas para dos líneas de tr
 
 ## Estructura
 
-- `data/raw/`: Archivos de entrada originales en Excel
-- `data/processed/`: Resultados exportados
-- `src/procesar_estructuras.py`: Script principal para procesar los datos
+- `data`: Archivos de entrada originales en Excel
+- `processed`: Resultados exportados
+- `script/procesar_estructuras.py`: Script principal para procesar los datos
