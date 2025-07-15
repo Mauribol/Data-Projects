@@ -9,12 +9,12 @@ Este repositorio presenta una colección de proyectos reales, orientados al sect
 
 | Proyecto | Carpeta | Descripción |
 |---------|---------|-------------|
-| 1 | `estructuras_montadas` | Clasifica y resume estructuras montadas por tipo en líneas de transmisión |
-| 2 | `cableado_subestaciones` | Clasifica cableado por color y tipo de equipo en subestaciones |
-| 3 | `longitud_ductos_subestacion` | Calcula longitud total de ductos por tipo y equipo |
-| 4 | `pisos_y_caminos_subestacion` | Calcula área total de distintos pisos y caminos |
-| 5 | `prediccion_cemento_ml` | Modelo de regresión para predecir el uso de cemento por mezcla |
-| 6 | `mezclas_anonimas_isolationforest` | Detección global de mezclas de concreto anómalas con Isolation Forest |
-| 7 | `anomalias_por_mezcla` | Detección de anomalías por tipo de mezcla individual |
+| 1 | `Estructuras_Montadas` | Clasifica y resume estructuras montadas por tipo en líneas de transmisión |
+| 2 | `Cableado_Subestaciones` | Clasifica cableado por color y tipo de equipo en subestaciones |
+| 3 | `Longitud_Ductos_Subestacion` | Calcula longitud total de ductos por tipo y equipo |
+| 4 | `Pisos_y_Caminos_Subestacion` | Calcula área total de distintos pisos y caminos |
+| 5 | `Prediccion_Cemento_ml` | Modelo de regresión para predecir el uso de cemento por mezcla |
+| 6 | `Mezclas_Anomalas_Isolationforest` | Detección global de mezclas de concreto anómalas con Isolation Forest |
+| 7 | `AAnomalias_Por_Mezcla` | Detección de anomalías por tipo de mezcla individual |
 
 ---
